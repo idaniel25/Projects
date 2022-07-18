@@ -1,0 +1,63 @@
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\bin\Debug\Proiect_PAW.exe.config
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\bin\Debug\Proiect_PAW.exe
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\bin\Debug\Proiect_PAW.pdb
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.AssemblyReference.cache
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form1.resources
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.GenerateResource.cache
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.CoreCompileInputs.cache
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.exe
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.pdb
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form2.resources
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form3.resources
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form4.resources
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.AssemblyReference.cache
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.SuggestedBindingRedirects.cache
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form1.resources
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form2.resources
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form3.resources
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form4.resources
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.GenerateResource.cache
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.CoreCompileInputs.cache
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.exe
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.pdb
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\bin\Debug\Proiect_PAW.exe.config
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\bin\Debug\Proiect_PAW.exe
+C:\Users\iovan\OneDrive\Proiect_PAW pe bune\Proiect_PAW\bin\Debug\Proiect_PAW.pdb
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\bin\Debug\Proiect_PAW.exe.config
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\bin\Debug\Proiect_PAW.exe
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\bin\Debug\Proiect_PAW.pdb
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.AssemblyReference.cache
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.SuggestedBindingRedirects.cache
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form1.resources
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form2.resources
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form3.resources
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form4.resources
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.GenerateResource.cache
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.CoreCompileInputs.cache
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.exe
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.pdb
+C:\Users\Danut\Desktop\Facultate\ANUL II\SEM 2\PAW\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form5.resources
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form5.resources
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form6.resources
+C:\Users\iovan\OneDrive\Desktop\Proiect_PAW pe bune\Proiect_PAW\obj\Debug\Proiect_PAW.Form7.resources
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\bin\Debug\Proiect_PAW.exe.config
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\bin\Debug\Proiect_PAW.exe
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\bin\Debug\Proiect_PAW.pdb
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.AssemblyReference.cache
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.Form1.resources
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.Form2.resources
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.Form3.resources
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.Form4.resources
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.Form5.resources
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.Form6.resources
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.Form7.resources
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.GenerateResource.cache
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.csproj.CoreCompileInputs.cache
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.exe
+C:\Users\Danut\OneDrive\Fuckultate\PAW\proiect\Proiect_PAW_Iovana_Florin_Daniel\Proiect_PAW\obj\Debug\Proiect_PAW.pdb
