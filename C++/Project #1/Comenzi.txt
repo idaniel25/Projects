@@ -1,0 +1,9 @@
+
+Comanda 2 in procesare
+Continutul comenzii 2 care contine 4 produs(e): 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Id: 1000    Nume: Laptop    Descriere: Calculator portabil    Discount: 0.1    Pret: 1000	
+Id: 2000    Nume: Ecran    Descriere: Periferic de iesire    Discount: 0.15    Pret: 1400	
+Id: 3000    Nume: Casti    Descriere: Dispozitive electrice pentru receptia si ascultarea sunetelor si muzicii    Discount: 0.2    Pret: 800	
+Id: 4000    Nume: Boxa portabila    Descriere: Dispozitiv de iesire care reda continut audio    Discount: 0.25    Pret: 1500	
+
