@@ -1,0 +1,25 @@
+.font-color-white{
+    color: white;
+}
+
+.black-background{
+    background-color: black;
+}
+
+.padding-top-bottom-half-a-rem{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.padding-left-right-2rem{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.margin-top-1em{
+    margin-top: 1em;
+}
+
+.margin-bottom-1em{
+    margin-bottom: 1em;
+}
